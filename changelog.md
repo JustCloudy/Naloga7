@@ -11,3 +11,7 @@
 - Pull request sa main, sebe sem označil kot Assigner
 - Dodal sem kontakt.htm
 - Pull request na main, sebe sem označil kot Assigner
+
+### Spremembe – vloga C
+- Dodani testni scenariji (testni_scenarij.md)
+- Dodani kontaktni podatki testerja v kontakt.html
